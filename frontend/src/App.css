@@ -1,39 +1,25 @@
-.dropdown:hover > .dropdown-menu {
-  display: block;
-  margin-top: 0;
+.dropdown-menu li a {
+  color: black !important;
 }
 .navbar {
-  background-color: #ffffff;
-  color: #1f2937; /* Slate Gray text */
+  background-color: #05a855;
+  color: #fff !important; /* Slate Gray text */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-brand h2 {
   font-weight: bolder !important;
+  color: #fff !important;
 }
 
 .navbar-toggler i {
   font-size: 2.9rem !important;
   font-weight: bolder !important;
+  color: #fff !important;
 }
 
 #navbarNav ul li a {
   font-size: 1.3rem !important;
   font-weight: bold !important;
-}
-.sidebar {
-  border-right: 1px solid #1f2937;
-  display: flex;
-  justify-content: center;
-}
-
-.sidebar ul li a {
-  font-size: 1.4rem !important;
-  font-weight: bold !important;
-  color: #1f2937 !important;
-}
-
-.sidebar ul li {
-  background-color: #a5a4a4 !important;
-  padding: 10px 10px !important;
+  color: #fff;
 }

@@ -44,7 +44,7 @@ export default function Header() {
               </a>
               <ul className="dropdown-menu" aria-labelledby="categoryDropdown">
                 <li>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item text-dark" href="#">
                     Science
                   </a>
                 </li>
